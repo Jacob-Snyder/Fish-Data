@@ -2,3 +2,6 @@ ncol(`fish_data.(1)`)
 [1] 1
 nrow(`fish_data.(1)`)
 [1] 27819
+sapply(`fish_data.(1)`,typeof)
+         V1 
+"character" 
